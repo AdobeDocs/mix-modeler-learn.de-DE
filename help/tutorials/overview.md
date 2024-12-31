@@ -13,9 +13,9 @@ ht-degree: 12%
 
 # Tutorials für Mix Modeler
 
-Erfahren Sie mehr über die Adobe Mix Modeler in diesen Videos und Tutorials.
+In diesen Videos und Tutorials erfahren Sie mehr über Adobe Mix Modeler.
 
-Adobe Mix Modeler unterstützt Unternehmen bei der Messung, Optimierung und Planung von Marketinginvestitionen durch Anwendung von maschinellen Lernmodellen, die Einblicke in die historischen und künftigen Auswirkungen von Marketinginvestitionen auf wichtige Geschäftsziele bieten.
+Adobe Mix Modeler unterstützt Unternehmen bei der Messung, Optimierung und Planung von Marketing-Investitionen durch die Anwendung von Modellen für maschinelles Lernen, die Einblicke in die historischen und zukünftigen Auswirkungen von Marketing-Investitionen auf wichtige Geschäftsziele bieten.
 
 
 <div id="recs-overview-body-1"></div>
@@ -32,20 +32,20 @@ Adobe Mix Modeler unterstützt Unternehmen bei der Messung, Optimierung und Plan
 <tr>
   <td>
     <a href="intro/use-cases.md">
-      <img alt="Miniaturbild für das Tutorial &quot;Anwendungsfälle&quot;" src="https://video.tv.adobe.com/v/3424857?format=jpeg" />
+      <img alt="Miniaturbild für das Tutorial „Anwendungsfälle“" src="https://video.tv.adobe.com/v/3424857?format=jpeg" />
     </a>
     <div>
       <a href="intro/use-cases.md">
-    <strong>Anwendungsbeispiele</strong>
+    <strong>Anwendungsfälle</strong>
     </a>
     </div>
     <p>
-    <em>Erfahren Sie mehr über die wichtigsten Anwendungsfälle von Adobe Mix Modeler</em>
+    <em>Lernen Sie die wichtigsten Anwendungsfälle von Adobe Mix Modeler kennen</em>
     <p>
   </td>
   <td>
     <a href="intro/demo.md">
-      <img alt="Miniaturbild für das Tutorial &quot;End-to-End-Demo&quot;" src="https://video.tv.adobe.com/v/3440794?format=jpeg" />
+      <img alt="Miniaturbild für das Tutorial „End-to-End-Demo“" src="https://video.tv.adobe.com/v/3440794?format=jpeg" />
     </a>
     <div>
       <a href="intro/demo.md">
@@ -53,20 +53,20 @@ Adobe Mix Modeler unterstützt Unternehmen bei der Messung, Optimierung und Plan
     </a>
     </div>
     <p>
-    <em>Anzeigen einer End-to-End-Demo von Adobe Mix Modeler</em>
+    <em>Sehen Sie sich eine End-to-End-Demo von Adobe Mix Modeler an</em>
     <p>
   </td>
   <td>
     <a href="intro/user-interface-tour.md">
-      <img alt="Miniaturbild für das Video &quot;Tour durch die Benutzeroberfläche&quot;" src="https://video.tv.adobe.com/v/3424851?format=jpeg" />
+      <img alt="Miniaturbild für das Video „Tour durch die Benutzeroberfläche“" src="https://video.tv.adobe.com/v/3424851?format=jpeg" />
     </a>
     <div>
       <a href="intro/user-interface-tour.md">
-    <strong>Überblick über die Benutzeroberfläche</strong>
+    <strong>Tour durch die Benutzeroberfläche</strong>
     </a>
     </div>
     <p>
-    <em>Erfahren Sie mehr über die wichtigsten Benutzeroberflächenkomponenten von Adobe Mix Modeler</em>
+    <em>Erfahren Sie mehr über die wichtigsten Komponenten der Benutzeroberfläche von Adobe Mix Modeler</em>
     <p>
   </td>
 </tr>

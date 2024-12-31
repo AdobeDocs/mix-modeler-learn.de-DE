@@ -1,5 +1,5 @@
 ---
-title: Benutzeroberfläche
+title: Tour durch die Benutzeroberfläche
 description: Weitere Informationen zu den wichtigsten Funktionen von Mix Modeler finden Sie in der Benutzeroberfläche.
 role: Admin, Architect, Developer, Leader, User
 level: Beginner
@@ -15,8 +15,8 @@ ht-degree: 28%
 
 ---
 
-# Benutzeroberfläche
+# Tour durch die Benutzeroberfläche
 
-Weitere Informationen finden Sie in den wichtigsten Funktionen von Mix Modeler in der Benutzeroberfläche. Weitere Informationen finden Sie im [Adobe Mix Modeler-Handbuch](https://experienceleague.adobe.com/en/docs/mix-modeler/using/get-started/workflow).
+Die wichtigsten Funktionen von Mix Modeler in der Benutzeroberfläche anzeigen. Weitere Informationen finden Sie im [Adobe Mix Modeler-Handbuch](https://experienceleague.adobe.com/en/docs/mix-modeler/using/get-started/workflow).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424851?learn=on&enablevpops)

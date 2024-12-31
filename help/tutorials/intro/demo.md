@@ -1,6 +1,6 @@
 ---
-title: Mix Modeler-End-to-End-Demo
-description: Erfahren Sie mehr über den End-to-End-Workflow von Adobe Mix Modeler.
+title: End-to-End-Demo zu Mix Modeler
+description: Lernen Sie den End-to-End-Workflow von Adobe Mix Modeler kennen.
 role: Developer, User
 level: Beginner
 doc-type: Value Video
@@ -15,8 +15,8 @@ ht-degree: 0%
 
 ---
 
-# Mix Modeler-End-to-End-Demo
+# End-to-End-Demo zu Mix Modeler
 
-Hier finden Sie eine durchgängige Demo von Adobe Mix Modeler. Weitere Informationen finden Sie in der [Mix Modeler-Dokumentation](https://experienceleague.adobe.com/en/docs/mix-modeler/using/overview).
+Sehen Sie sich eine End-to-End-Demo von Adobe Mix Modeler an. Weitere Informationen finden Sie in der Dokumentation zu [Mix Modeler ](https://experienceleague.adobe.com/en/docs/mix-modeler/using/overview).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3440794/?learn=on&enablevpops)

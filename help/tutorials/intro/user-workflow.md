@@ -1,5 +1,5 @@
 ---
-title: Benutzerarbeitsablauf
+title: Benutzer-Workflow
 description: Erfahren Sie mehr über den Workflow in Mix Modeler.
 role: Admin, Architect, Developer, Leader, User
 level: Beginner
@@ -15,8 +15,8 @@ ht-degree: 23%
 
 ---
 
-# Benutzerarbeitsablauf
+# Benutzer-Workflow
 
-Erfahren Sie mehr über den Workflow von Mix Modeler. Weitere Informationen finden Sie in der Dokumentation zum [Mix Modeler-Workflow](https://experienceleague.adobe.com/en/docs/mix-modeler/using/get-started/workflow) .
+Erfahren Sie mehr über den Workflow von Mix Modeler. Weitere Informationen finden Sie in der Dokumentation zum [Mix Modeler-Workflow](https://experienceleague.adobe.com/en/docs/mix-modeler/using/get-started/workflow).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424854?learn=on&enablevpops)

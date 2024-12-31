@@ -13,7 +13,7 @@ ht-degree: 59%
 ---
 
 
-# Adobe Mix Modeler Tutorials {#tutorials}
+# Tutorials im Adobe Mix Modeler {#tutorials}
 
 + [Tutorials für Mix Modeler](/help/tutorials/overview.md)
 + Einführung in Mix Modeler {#intro}
@@ -21,4 +21,4 @@ ht-degree: 59%
    + [Anwendungsfälle](/help/tutorials/intro/use-cases.md)
    + [Benutzer-Workflow](/help/tutorials/intro/user-workflow.md)
    + [End-to-End-Demo](/help/tutorials/intro/demo.md)
-   + [Benutzeroberfläche](/help/tutorials/intro/user-interface-tour.md)
+   + [Tour durch die Benutzeroberfläche](/help/tutorials/intro/user-interface-tour.md)

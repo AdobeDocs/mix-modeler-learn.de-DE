@@ -17,6 +17,6 @@ ht-degree: 38%
 
 # Anwendungsfälle
 
-Erfahren Sie mehr über die Anwendungsfälle, die von Mix Modeler angesprochen werden. Weitere Informationen finden Sie in der Dokumentation zu [Anwendungsfällen für Mix Modeler](https://experienceleague.adobe.com/en/docs/mix-modeler/using/get-started/workflow) .
+Erfahren Sie mehr über die von Mix Modeler behandelten Anwendungsfälle. Weitere Informationen finden Sie in der Dokumentation zu [Anwendungsfällen für Mix Modeler ](https://experienceleague.adobe.com/en/docs/mix-modeler/using/get-started/workflow).
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424857?learn=on&enablevpops)
