@@ -1,10 +1,10 @@
 ---
-title: Mix Modeler-Videos und -Tutorials
+title: Videos und Tutorials zu Mix Modeler
 description: Eine Sammlung von Videos und Tutorials für Adobe Mix Modeler.
 doc-type: overview-page
 mini-toc-levels: 1
 exl-id: 451a1f0d-3116-4166-9bfe-6b1a295ebac8
-source-git-commit: cb11a8eb8640282e849f6a096ef6e24635c58ced
+source-git-commit: a0adf6fe046011f6394e993feb5e2282be66eec4
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 12%
@@ -31,19 +31,6 @@ Adobe Mix Modeler unterstützt Unternehmen bei der Messung, Optimierung und Plan
 <table style="margin-top: 0 !important">
 <tr>
   <td>
-    <a href="intro/use-cases.md">
-      <img alt="Miniaturbild für das Tutorial „Anwendungsfälle“" src="https://video.tv.adobe.com/v/3424857?format=jpeg" />
-    </a>
-    <div>
-      <a href="intro/use-cases.md">
-    <strong>Anwendungsfälle</strong>
-    </a>
-    </div>
-    <p>
-    <em>Lernen Sie die wichtigsten Anwendungsfälle von Adobe Mix Modeler kennen</em>
-    <p>
-  </td>
-  <td>
     <a href="intro/demo.md">
       <img alt="Miniaturbild für das Tutorial „End-to-End-Demo“" src="https://video.tv.adobe.com/v/3440794?format=jpeg" />
     </a>
@@ -53,7 +40,7 @@ Adobe Mix Modeler unterstützt Unternehmen bei der Messung, Optimierung und Plan
     </a>
     </div>
     <p>
-    <em>Sehen Sie sich eine End-to-End-Demo von Adobe Mix Modeler an</em>
+    <em>Sehen Sie sich eine umfassende Demo von Adobe Mix Modeler an</em>
     <p>
   </td>
   <td>
@@ -70,6 +57,19 @@ Adobe Mix Modeler unterstützt Unternehmen bei der Messung, Optimierung und Plan
     <p>
   </td>
 </tr>
+  <td>
+    <a href="intro/user-workflow.md">
+      <img alt="Miniaturbild für das Tutorial „Benutzer-Workflow“" src="https://video.tv.adobe.com/v/3424854?format=jpeg" />
+    </a>
+    <div>
+      <a href="intro/user-workflow.md">
+    <strong>Benutzer-Workflow</strong>
+    </a>
+    </div>
+    <p>
+    <em>Erfahren Sie mehr über den Benutzer-Workflow in Adobe Mix Modeler</em>
+    <p>
+  </td>
 </table>
 
 </div>
