@@ -32,7 +32,7 @@ Adobe Mix Modeler unterstützt Unternehmen bei der Messung, Optimierung und Plan
 <tr>
   <td>
     <a href="intro/demo.md">
-      <img alt="Miniaturbild für das Tutorial „End-to-End-Demo“" src="https://video.tv.adobe.com/v/3440794?format=jpeg" />
+      <img alt="Miniaturbild für das Tutorial „End-to-End-Demo“" src="https://video.tv.adobe.com/v/3440803?format=jpeg&captions=ger" />
     </a>
     <div>
       <a href="intro/demo.md">
@@ -45,7 +45,7 @@ Adobe Mix Modeler unterstützt Unternehmen bei der Messung, Optimierung und Plan
   </td>
   <td>
     <a href="intro/user-interface-tour.md">
-      <img alt="Miniaturbild für das Video „Tour durch die Benutzeroberfläche“" src="https://video.tv.adobe.com/v/3424851?format=jpeg" />
+      <img alt="Miniaturbild für das Video „Tour durch die Benutzeroberfläche“" src="https://video.tv.adobe.com/v/3452391?format=jpeg&captions=ger" />
     </a>
     <div>
       <a href="intro/user-interface-tour.md">
@@ -58,7 +58,7 @@ Adobe Mix Modeler unterstützt Unternehmen bei der Messung, Optimierung und Plan
   </td>
   <td>
     <a href="intro/user-workflow.md">
-      <img alt="Miniaturbild für das Tutorial „Benutzer-Workflow“" src="https://video.tv.adobe.com/v/3424854?format=jpeg" />
+      <img alt="Miniaturbild für das Tutorial „Benutzer-Workflow“" src="https://video.tv.adobe.com/v/3440213?format=jpeg&captions=ger" />
     </a>
     <div>
       <a href="intro/user-workflow.md">
