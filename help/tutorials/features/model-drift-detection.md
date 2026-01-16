@@ -16,6 +16,6 @@ ht-degree: 0%
 
 # Modelldrifterkennung
 
-Mit der Funktion zur Modelldrifterkennung in Mix Modeler wird ein Modelldrift automatisch erkannt, sodass Sie sofort handeln oder die Drift genauer untersuchen können. Weitere Informationen finden Sie unter [Modellverschiebung](https://experienceleague.adobe.com/en/docs/mix-modeler/using/models/insights#model-drift){target="_blank"} in der Mix Modeler-Dokumentation.
+Mit der Funktion zur Modelldrifterkennung in Mix Modeler wird ein Modelldrift automatisch erkannt, sodass Sie sofort handeln oder die Drift genauer untersuchen können. Weitere Informationen finden Sie unter [Modellverschiebung](https://experienceleague.adobe.com/de/docs/mix-modeler/using/models/insights#model-drift){target="_blank"} in der Mix Modeler-Dokumentation.
 
 >[!SLIDE](model-drift-detection)
