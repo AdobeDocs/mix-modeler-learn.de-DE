@@ -17,7 +17,7 @@ ht-degree: 0%
 
 # Modelldrifterkennung
 
-Mit der Funktion zur Erkennung von Modellabweichungen von Mix Modeler werden Änderungen an der Modellleistung automatisch erkannt und Benutzende benachrichtigt. Sie können sofort Maßnahmen ergreifen, um die optimale Leistung des Modells wiederherzustellen. Weitere Informationen finden Sie unter [Modellverschiebung](https://experienceleague.adobe.com/en/docs/mix-modeler/using/models/insights#model-drift){target="_blank"} in der Mix Modeler-Dokumentation.
+Mit der Funktion zur Erkennung von Modellabweichungen von Mix Modeler werden Änderungen an der Modellleistung automatisch erkannt und Benutzende benachrichtigt. Sie können sofort Maßnahmen ergreifen, um die optimale Leistung des Modells wiederherzustellen. Weitere Informationen finden Sie unter [Modellverschiebung](https://experienceleague.adobe.com/de/docs/mix-modeler/using/models/insights#model-drift){target="_blank"} in der Mix Modeler-Dokumentation.
 
 >[!SLIDE](model-drift-detection)
 
