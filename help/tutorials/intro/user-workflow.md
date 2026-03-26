@@ -17,6 +17,6 @@ ht-degree: 34%
 
 # Benutzer-Workflow
 
-Erfahren Sie mehr über den Workflow in Mix Modeler. Weitere Informationen finden Sie in der Dokumentation zum [Mix Modeler](https://experienceleague.adobe.com/en/docs/mix-modeler/using/get-started/workflow)Workflow.
+Erfahren Sie mehr über den Workflow in Mix Modeler. Weitere Informationen finden Sie in der Dokumentation zum [Mix Modeler](https://experienceleague.adobe.com/de/docs/mix-modeler/using/get-started/workflow)Workflow.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3424854?learn=on&enablevpops)
